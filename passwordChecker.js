@@ -1,6 +1,6 @@
 function validatePassword(password) {
-   
-    return false;
+    
+    return true;
 }
 
 module.exports = validatePassword;
