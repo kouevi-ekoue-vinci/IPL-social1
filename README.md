@@ -4,7 +4,7 @@
 - **Nom** : Ekoue  
 - **Prénom** : Kouevi  
 - **Email** : kouevi.ekoue@student.vinci.be  
-- **URL GitHub** : https://github.com/kouevi-ekoue-vinci/IPL-social.git
+- **URL GitHub** : https://github.com/kouevi-ekoue-vinci/IPL-social1.git
 
 ---
 
