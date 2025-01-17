@@ -13,5 +13,9 @@ describe('Validation de mot de passe', () => {
         expect(validatePassword('Password1')).toBe(false);
     });
     
+    it('doit invalider un mot de passe sans chiffre', () => {
+        expect(validatePassword('Password!')).toBe(false);
+    });
+    
     
 });
