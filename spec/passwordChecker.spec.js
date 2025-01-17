@@ -1,4 +1,4 @@
-const validatePassword = require('../IPL-social/passwordChecker');
+const validatePassword = require('../passwordChecker');
 
 describe('Validation de mot de passe', () => {
     it('doit valider un mot de passe correct', () => {
