@@ -17,5 +17,9 @@ describe('Validation de mot de passe', () => {
         expect(validatePassword('Password!')).toBe(false);
     });
     
+    it('doit invalider un mot de passe contenant "IPL"', () => {
+        expect(validatePassword('Ipl123!')).toBe(false);
+    });
+    
     
 });
